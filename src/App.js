@@ -150,12 +150,7 @@ const Overlay = () => (
         rel="noreferrer"
       >
         wojciech dobry
-      </a>{" "}
-      – inspired by{" "}
-      <a href="https://twitter.com/pmndrs" target="_blank" rel="noreferrer">
-        pmndrs
-      </a>{" "}
-      collective
+      </a>
     </span>
   </>
 );
