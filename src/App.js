@@ -9,8 +9,8 @@ import {
 import { LayerMaterial, Displace } from "lamina";
 
 const LINE_1 = "teach me how to do it man ";
-const LINE_2 = "terqo";
-const SIZE = 25;
+const LINE_2 = "terqoo + troyano";
+const SIZE = 12;
 
 // made by wojciech dobry
 // https://twitter.com/wojciech_dobry
